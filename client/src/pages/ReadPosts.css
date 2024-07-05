@@ -1,0 +1,25 @@
+.ReadPosts {
+    display: grid;
+    grid-auto-flow: row;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 30px;
+  }
+
+.SortButtons{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-bottom: 50px;
+    margin-right: 10px;
+
+}
+
+.SearchBar{
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: grid;
+    grid-auto-flow: row;
+    
+}
