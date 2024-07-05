@@ -1,4 +1,4 @@
-## Webiste Name: **NHL Hub**
+# Full-stack Web Development Project: **NHL Hub**
 
 Made by: **Robbie Salisbury V**
 
