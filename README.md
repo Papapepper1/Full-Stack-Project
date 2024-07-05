@@ -1,6 +1,6 @@
-# Web Development Final Project - *NHL Hub*
+*NHL Hub*
 
-Submitted by: **Robbie Salisbury V**
+Made by: **Robbie Salisbury V**
 
 This web app: **This Web app utilizes the love for NHL Hockey to create a social media post sight that anyone can make! The user can Simply create a post about the NHL that's on their mind and even add images related to it! You can also upvote, sort, comment, edit, or delete the posts as well!** 
 
