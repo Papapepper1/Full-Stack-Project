@@ -1,4 +1,4 @@
-*NHL Hub*
+## Webiste Name: **NHL Hub**
 
 Made by: **Robbie Salisbury V**
 
